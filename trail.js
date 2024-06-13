@@ -1,0 +1,13 @@
+"use strict";
+// let age:number;
+// age = 23;
+// console.log(age);
+let name1 = "Harshil";
+console.log(name1);
+let emparray;
+emparray = ["Harshil", "Rahul", "Raj"];
+// console.log(emparray[1]);
+let numlist;
+numlist = [1, 2, 3, 4, 5];
+let result = numlist.filter((num) => num > 2);
+console.log(result);
